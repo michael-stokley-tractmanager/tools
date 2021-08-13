@@ -1,4 +1,4 @@
-(ns mmastokley.update-deps
+(ns mastokley.update-deps
   (:require [rewrite-clj.zip :as z]))
 
 (def ^:dynamic filename-root "/home/michael/tract-manager/projects/")
